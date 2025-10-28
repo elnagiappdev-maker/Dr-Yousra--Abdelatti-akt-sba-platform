@@ -1,3 +1,8 @@
+import os, sys
+THIS_DIR = os.path.dirname(os.path.abspath(__file__))
+if THIS_DIR not in sys.path:
+    sys.path.insert(0, THIS_DIR)
+
 import streamlit as st
 from app.router import route
 from app.layout import render_wallpaper_banner, render_footer, apply_base_page_setup
