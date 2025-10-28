@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+pydantic>=2.8.0
+httpx>=0.27.0
+# Supabase client will be used in Step 1:
+supabase>=2.4.0
+python-dotenv>=1.0.1
