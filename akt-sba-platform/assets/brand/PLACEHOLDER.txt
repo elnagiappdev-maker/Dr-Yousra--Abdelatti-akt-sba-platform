@@ -1,0 +1,2 @@
+Place the Dr. Yousra Abdelatti portrait here as 'yousra.jpg' or 'yousra.png'.
+Expected path: assets/brand/yousra.jpg (or yousra.png).
